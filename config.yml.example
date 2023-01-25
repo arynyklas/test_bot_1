@@ -1,0 +1,7 @@
+bot_token: ""
+eth_api_key: ""
+db:
+  uri: mongodb://localhost:27017
+  name: ""
+admins:
+  - 1
