@@ -1,0 +1,5 @@
+aiogram==2.23.1
+beanie==1.16.6
+web3==5.31.3
+httpx==0.23.1
+pyyaml==6.0
